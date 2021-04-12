@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dragontalker/tailwindcss-ninja-tutorial/issues"
   },
-  "homepage": "https://github.com/Dragontalker/tailwindcss-ninja-tutorial#readme"
+  "homepage": "https://github.com/Dragontalker/tailwindcss-ninja-tutorial#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.1"
+  }
 }
